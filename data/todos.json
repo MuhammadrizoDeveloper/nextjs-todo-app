@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "a088629f-7005-4538-9899-440e97a39161",
+      "text": "Buy a Macbook Pro"
+    },
+    {
+      "id": "f84a6cba-26b3-496d-bb75-deae20a56717",
+      "text": "install raycast on the macbook"
+    },
+    {
+      "id": "b024b2d7-cbfc-480e-872b-a2e7d755ad53",
+      "text": "buy an iphone"
+    }
+  ]
+}
