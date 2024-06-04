@@ -2,9 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+To run the app:
 
 ```bash
+npm i
+# then
 npm run dev
 # and run
 npm run json-server
